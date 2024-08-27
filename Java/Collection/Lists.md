@@ -1,0 +1,11 @@
+[[Collection]]
+- The List interface is a subtype (or subinterface) of the Collection interface.
+- Lists have the following characteristics
+	- **They maintain the order of the elements they contain**
+	- They allow duplicate entries of any given object.
+	- They can be manually sorted
+- The Following are the most common List implementations
+	- [[ArrayList]]
+	- [[LinkedList]]
+- Because lists are ordered, they also have an index, just like an array.
+	- index can be used to get, set, remove elements in the list

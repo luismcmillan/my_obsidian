@@ -1,0 +1,29 @@
+[Boss]
+
+- [[Lernplan]]
+- Java is two things
+	- a programming language 
+	- and a platform [[The Java Platform]] 
+- As programming language, Java was designed to be
+	- **simple, object-oriented, and familiar**
+	- [[Hello World]]
+	- **robust and secure**
+	- **architecturally neutral and portable (i.e., platform independent) [[Java Development Kit (JDK)]]
+	- **interpreted, threaded and dynamic
+	- **high performing
+- [[Java Shell Commands]]
+- [[Access Modifier]]
+- [[Inheritance]]
+- [[Polymorphism]]
+- [[Java DataBase Connection (JDBC)]]
+- [[Abstract Classes]]
+- [[Interfaces]]
+- [[Java.io]]
+- [[Java.nio]]
+- [[Java Array]]
+- [[Collection]]
+- [[Date & Time]]
+- [[String]]
+- [[Passing by Value]]
+- [[Throwable]]
+- [[SpringBoot]]

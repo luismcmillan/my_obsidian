@@ -1,0 +1,39 @@
+- [[EC2 - Elastic Compute Cloud]]
+- On Demand Instances: 
+	- short workload un-interrupted workloads
+	- pay by second, after first minute
+	- highest cost but no upfront payment
+	- **recommended where you can't predict how application will behave**
+- Reserved (1 & 3 years)
+	- Reserved Instances - long workloads
+	- Convertible Reserved Instances - long workloads with flexible instances
+	- **recommended for steady-state usage applications (database)**
+	- you can buy and sell in the Reserved Instance Marketplace
+- Savings Plans (1 & 3 years)
+	- commitment to a certain type of usage
+	- Usage beyond Savings Plans is billed as On-Demand
+	- locked to a specifiv instance family & AWS Region
+	- flexible across
+		- Instance Size
+		- OS
+- Spot Instances
+	- up to 90% Discount
+	- MOST cost-efficient
+	- Useful for workloads that are resilient to failure
+		- Batch Jobs
+		- Data analysis
+		- Image processing
+		- Any distributed workloads
+		- **not suitable for critical jobs or databases
+- Dedicated Hosts - book an entire physical server, control instance placement
+	- most expensive
+	- Useful for software that have complicated licensing model (BYOL Bring your own License)
+- Dedicated Instances
+	- May share hardware with other instances in same account
+	- No control over instance placement
+- Capacity Reservations - reserve capacity in a specific AZ for any duration
+	- you always have access to EC2 capacity when you need it
+	- No time Commitment
+	- no billing discount
+	- Combine with Regional Reserved Instances and Savings Plans to benefit from billing discounts
+	- **Suitable for short-term, uninterrupted workloads that needs to be in a specific AZ**

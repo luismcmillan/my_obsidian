@@ -1,0 +1,3 @@
+- Decreased Latency
+- Disaster Recovery
+- Attack protection

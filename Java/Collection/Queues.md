@@ -1,0 +1,12 @@
+[[Collection]]
+- The Queue Interface defines methods for adding, removing and examining the elements in a queue
+	- Exception throwing method
+		- add()
+		- remove()
+		- element()
+	- Non-Exception throwing method
+		- offer()
+		- poll()
+		- peek()
+- [[ArrayBlockingQueue]]
+- [[PriorityQueue]]

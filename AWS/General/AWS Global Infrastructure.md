@@ -1,0 +1,25 @@
+- [[AWS]]
+- AWS Regions
+	- all around the world
+	- names like: us-east-1
+	- cluster of Data centers
+	- MOST AWS services are region-scoped
+	- How to choose Region?
+		- **Compliance** 
+			- with data governance and leagel region: data never leaves a region without explicit permission
+		- **Proximity** 
+			- to customer: reduced latency
+		- **Available services** 
+			- within a Region: new features aren't available in every Region
+		- **Pricing** 
+			- pricing varies region to region
+- AWS Availability Zones
+	- Each Reagion has many availability zones (usually 3, min 3, max 6)
+	- Each AZ is one or more **redundant** data center
+	- separated from each other
+	- connected with high bandwidth, ultra-low latency networking
+- AWS Data Centers
+- AWS Edge Locations / Points of Presence
+	- Amazon has 400+ Points of Presence
+	- content is delivered to end users with lower latency
+

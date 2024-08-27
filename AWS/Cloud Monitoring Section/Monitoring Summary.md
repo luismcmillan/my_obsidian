@@ -1,0 +1,11 @@
+- [[CloudWatch]]:
+	- Metrics: monitor the performance of AWS services and billing metrics
+	- Alarms: automate notification, perform EC2 action, notify to SNS based on metric
+	- Logs: collect log files from EC2 instances, servers, Lambda functions..
+	- EventBridge: react to events in AWS, ir trigger a rule on a schedule
+- [[AWS CloudTrail]]: audit API calls made within your AWS account
+- [[AWS X-Ray]]: trace requests made through your distributed applications
+- [[AWS Health Dashboard]]: status of all AWS services across all regions
+- [[AWS Health Dashboard]] - Account: AWS events that impact your infrastructure
+- [[Amazon CodeGuru]]: automated code reviews and application performance recommendations
+

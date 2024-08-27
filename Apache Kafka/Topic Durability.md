@@ -1,0 +1,1 @@
+- **Topic Durability**: Die Dauerhaftigkeit eines [[Topic]] bezieht sich auf die Fähigkeit von Kafka, Nachrichten zuverlässig zu speichern und vor Datenverlust zu schützen. Durch [[Topic Replication]] und die Konfiguration der Bestätigungsstufen (acks) wird sichergestellt, dass Nachrichten nicht verloren gehen, selbst wenn [[Broker]] ausfallen.

@@ -1,0 +1,5 @@
+- [[Databases & Analytics Summary]]
+- AWS-implementation of MongoDB (which is a NoSQL database)
+- MongoDB is used to store, query, and index JSON data
+- **Similar "deployment concepts" as aurora**
+- Fully managed, highly available with replication across 3 AZ

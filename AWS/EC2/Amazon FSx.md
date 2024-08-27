@@ -1,0 +1,11 @@
+- [[EC2 - Elastic Compute Cloud]]
+- Launch 3rd party high-performance file systems on AWS
+- Fully managed service
+	- FSx for Lustre
+		- high performance, scalable file storage for High Performance Computing (**HPC**)
+		- "Linux" and "cluster"
+		- Machine Learning, Video Processing
+		- Scales up to 100s GB/s
+	- FSx for Windows File Server
+		- supports SMB protocol & Wondows NTFS
+	- FSx for NetApp ONTAP

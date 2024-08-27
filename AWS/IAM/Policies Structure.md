@@ -1,0 +1,12 @@
+- [[Permissions]]
+- Consists of
+	- Version
+	- Id
+	- Statement consists of
+		- Sid: an identifier for the statement
+		- Effect: Allow, Deny
+		- Principal : account/user/role to which this policy applied to
+		- Action: list of actions this policy allows or denies
+		- Resource: list of resources to which the actions apply
+		- Condition: conditions for when this policy is in effect
+[[IAM Best Practices]]

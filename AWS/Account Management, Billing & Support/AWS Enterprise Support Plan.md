@@ -1,0 +1,9 @@
+- Intended to be used if you have **mission critical workloads**
+- All of [[AWS Business Support Plan]] +
+- Access to **designated** Technical Account Manager (TAM)
+- **Concierge Support Team** (for billing and account best practices)
+- **Infrastructure Event management, Well-Architected & Operations Reviews**
+- Case severity / response times
+	- ...
+	- Production system down: < 1 hour
+	- business-critical system down: < **15 min**

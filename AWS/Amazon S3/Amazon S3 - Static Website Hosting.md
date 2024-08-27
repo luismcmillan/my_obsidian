@@ -1,0 +1,4 @@
+- [[Amazon S3]]
+- S3 can host static websites and have them accessible on the internet
+- The website URL will be depending on the region
+- If you get a 403 Forbidden error, make sure the bucket policy allows public reads

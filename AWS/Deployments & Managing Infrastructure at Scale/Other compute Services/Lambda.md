@@ -1,0 +1,12 @@
+- Virtual functions - no servers ([[Serverless]]) to manage!
+- Limited by time - short executions
+- Run on-demand
+- Scaling is automated
+- Easy Pricing:
+	- Pay per request and compute time
+- Integrated with the whole AWS suite of serviced
+- **Event-Driven**: functions get invoked by WAS when needed
+- Lambda Container Image
+	- The container image must implement the Lambda Runtime API
+	- ECS / Fargate is preferred for running arbitrary Docker images
+![[Pasted image 20240522232940.png]]

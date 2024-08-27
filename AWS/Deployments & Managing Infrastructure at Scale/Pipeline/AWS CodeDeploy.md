@@ -1,0 +1,6 @@
+- [[Deployment - Summary]]
+- We want to Deploy our application **automatically**
+- Works with [[EC2 - Elastic Compute Cloud]] Instances
+- Works with on-Premises Servers
+- Hybrid service
+- Servers / Instances must be provisioned and configured ahead of time with the CodeDeploy Agend

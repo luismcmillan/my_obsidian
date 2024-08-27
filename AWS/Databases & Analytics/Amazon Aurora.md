@@ -1,0 +1,6 @@
+- [[Databases & Analytics Summary]]
+- Aurora is a proprietary technology from AWS
+- PostgreSQL and MySQL are both supported as Aurora DB
+- Aurora storage automatically grows in increments of 10GB
+- Aurora costs more than RDS (20% more) but is **more efficient**
+- not in the free tier

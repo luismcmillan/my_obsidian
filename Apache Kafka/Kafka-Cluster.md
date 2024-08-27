@@ -1,0 +1,1 @@
+- Ein **Kafka-Cluster** ist eine Sammlung von Kafka-[[Broker]] (Servern), die gemeinsam als ein System arbeiten, um Nachrichten effizient zu speichern, zu verteilen und zu verarbeiten. 

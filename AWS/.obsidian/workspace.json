@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "1473193f5aea6c21",
+    "type": "split",
+    "children": [
+      {
+        "id": "e694eb8f77810170",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46b93bf142379c9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VPC & Networking/Internet Gateway.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6994be33d49cd53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VPC & Networking/VPC & Subnets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87c9751e731aa271",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "af76400740897adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Account Management, Billing & Support/AWS Business Support Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67990dc47bf746df",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4afcc04eaa6c3300",
+    "type": "split",
+    "children": [
+      {
+        "id": "05c9fd6928ce6982",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0820d9f464a5712a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11c4c152da0e2f1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "elasti",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7e2aacb300abee7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "e9cae4180e68dd54",
+    "type": "split",
+    "children": [
+      {
+        "id": "96598a31f86935fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fed1d50c6cb6c63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd8f4a29705e74fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab3ebd047894d155",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b041ebcbb28eff63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "67990dc47bf746df",
+  "lastOpenFiles": [
+    "VPC & Networking/Internet Gateway.md",
+    "Databases & Analytics/Amazon ElastiCache.md",
+    "Leveraging the AWS Global Infrastructure/CloudFront.md",
+    "Security & Compliance/AWS Certificate Manager (ACM).md",
+    "VPC & Networking/VPC Peering.md",
+    "AWS Architecting & Ecosystem/VPC Summary.md",
+    "Leveraging the AWS Global Infrastructure/AWS Local Zones.md",
+    "VPC & Networking/Site to Site VPN & Direct Connect.md",
+    "VPC & Networking/VPC Endpoints.md",
+    "VPC & Networking/AWS PrivateLink.md",
+    "VPC & Networking/AWS Client VPN.md",
+    "Deployments & Managing Infrastructure at Scale/AWS Systems Manager (SSM).md",
+    "Security & Compliance/Amazon Inspector.md",
+    "Security & Compliance/AWS Artifact.md",
+    "Amazon S3/Amazon S3 - Buckets.md",
+    "Amazon S3/Amazon S3.md",
+    "Amazon S3/Amazon S3 - Objects.md",
+    "EC2/EFS - Elastic File System.md",
+    "EC2/EC2 - Elastic Compute Cloud.md",
+    "Databases & Analytics/Amazon Athena.md",
+    "EC2/Compute Pricing - EC2.md",
+    "EC2/AMI (Amazon Machine Image).md",
+    "Leveraging the AWS Global Infrastructure/CloudFront - Pricing Storage.md",
+    "Account Management, Billing & Support/Trusted Advisor.md",
+    "Advanced Identity/AWS STS (Security Token Service).md",
+    "Cloud Integrations/Amazon MQ.md",
+    "other",
+    "AWS Architecting & Ecosystem/Pasted image 20240525224726.png",
+    "AWS Architecting & Ecosystem/Pasted image 20240525232134.png",
+    "AWS Architecting & Ecosystem/Pasted image 20240525225825.png",
+    "AWS Architecting & Ecosystem/Pasted image 20240525225207.png",
+    "AWS Architecting & Ecosystem/Pasted image 20240525224331.png",
+    "AWS Architecting & Ecosystem/Pasted image 20240525223734.png",
+    "AWS Architecting & Ecosystem/Pasted image 20240525182745.png",
+    "AWS Architecting & Ecosystem",
+    "Other Services",
+    "Other Services/Pasted image 20240525180755.png",
+    "Other Services/Pasted image 20240525180352.png",
+    "Other Services/Pasted image 20240525180223.png",
+    "Advanced Identity",
+    "Unbenannt.canvas",
+    "Databases & Analytics/Amazon RDS",
+    "Account Management, Billing & Support",
+    "Machine Learning",
+    "Security & Compliance",
+    "VPC & Networking",
+    "Cloud Monitoring Section"
+  ]
+}

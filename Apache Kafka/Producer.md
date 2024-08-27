@@ -1,0 +1,1 @@
+Producer sind die Komponenten, die Nachrichten an Kafka [[Topic]] senden. Sie entscheiden, in welche [[Partition]] innerhalb eines [[Topic]] die Nachricht geschrieben wird, entweder zufällig oder basierend auf bestimmten Regeln. [[Producer]] verwenden [[Message Keys]], um Nachrichten gezielt einer [[Partition]] zuzuordnen.

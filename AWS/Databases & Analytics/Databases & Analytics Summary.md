@@ -1,0 +1,20 @@
+- Relational Databases - OLTP: RDS & Aurora
+	- [[Amazon RDS]]
+	- [[Amazon Aurora]], [[Amazon Aurora Serverless]]
+- Differences between [[RDS Deployments Options]]
+	- Multi-AZ
+	- read Replicas
+	- Multi-Region
+- In-memory Database [[Amazon ElastiCache]]
+- Key/Value Database: [[DynamoDB]], [[DynamoDB Accelerator - DAX]], [[DynamoDB - Global Tables]]
+- Warehouse - OLAP: [[Redshift]]]]
+- Hadoop Cluster: [[Amazon EMR - Elastic MapReduce]]
+- [[Amazon Athena]]: query data on Amazon S3 (serverless & SQL)
+- [[Amazon QuickSight]]: dashboards on your data (serverless)
+- [[DocumentDB]]: "Aurora for MongoDB" (JSON - NoSQL database)
+- [[Amazon QLDB]]: Financial Transactions Ledger (immutable joarnal, cryptographically verifiable)
+- [[Amazon Managed Blockchain]]: managed Hyperledger Fabric & Ethereum blockchains
+- [[AWS Glue]]: Managed ETL (Extract Transform Load) and Data Catalog service
+- [[DMS - Database Migration Service]]: DMS
+- [[Amazon Neptune]]: graph database
+- [[Amazon Timestream]]: time-series database

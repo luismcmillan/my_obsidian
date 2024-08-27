@@ -1,0 +1,7 @@
+- [[Databases & Analytics Summary]]
+- Amazon QLDB is a fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log owned by a central trusted authority. Amazon QLDB tracks each and every application data change and maintains a complete and verifiable history of changes over time.
+- Quantum Ledger Database
+- A Ledger is a book **recording financial transactions**
+- Fully Managed, Serverless, High available, Replication across 3 AZ
+- Used to **review history of all the changes made to you application data** over time
+- **Immutable** system: entry can be removed or modified, cryptographically verifiable

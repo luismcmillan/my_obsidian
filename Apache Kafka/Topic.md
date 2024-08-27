@@ -1,0 +1,3 @@
+- In Kafka werden Nachrichten in sogenannten [[Topic]] organisiert. Ein [[Topic]] ist ein logischer Kanal, auf den Produzenten [[Producer]] Nachrichten senden und von dem Konsumenten [[Consumers]] Nachrichten empfangen. Ein [[Topic]] ist wie eine Warteschlange, die Daten zu einem bestimmten Thema enthält.
+- Topic replication factor
+	- Topics should have a replication factor > 1 (usually between 2 and 3)

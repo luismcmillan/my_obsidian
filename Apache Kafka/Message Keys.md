@@ -1,0 +1,1 @@
+- Jeder Nachricht kann ein optionaler Message Key zugeordnet werden. Der Message Key wird verwendet, um Nachrichten einer bestimmten [[Partition]] innerhalb eines [[Topic]] zuzuordnen. Nachrichten mit demselben Message Key landen in der gleichen [[Partition]], was die Nachrichtenreihenfolge für diesen Message Key garantiert.

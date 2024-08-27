@@ -1,0 +1,2 @@
+- [[Access Modifier]]
+- Access is allowed only by the declaring class.

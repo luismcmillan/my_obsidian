@@ -1,0 +1,19 @@
+- [[Databases & Analytics Summary]]
+- 
+- Per hour billing
+- Database characteristics
+	- Engine
+	- Size
+	- Memory class
+- Purchase type
+	- On-demand
+	- Reserved instances (1 or 3 years) with required up-front
+- Backup Storage: There is no additional charge for backup storage up to 100% of your total database storage for a region
+- Additional storage (per GB per month)
+- Number of input and output requests per month
+- Deployment type (storage and I/O are variable):
+- Single AZ
+- Multiple AZs
+- Data transfer:
+	- **Outbound data transfer are tiered for volume discounts
+	- Inbound is free

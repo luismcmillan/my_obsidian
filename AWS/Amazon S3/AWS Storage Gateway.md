@@ -1,0 +1,5 @@
+- [[Amazon S3]]
+- S3 is a probrietary storage technology (unlike EFS/NFS), so how do you expose the S3 data on-premise? **AWS Storage Gateway!**
+- Bridge between on-premise data and cloud data in S3
+- Hybrid storage service to allow on-premises to seamlessly use AWS Cloud
+- Use cases: disaster recovery, backup & restore, tiered storage

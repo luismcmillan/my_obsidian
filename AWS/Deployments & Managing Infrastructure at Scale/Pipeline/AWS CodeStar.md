@@ -1,0 +1,5 @@
+- [[Deployment - Summary]]
+- CodeStar is used to quickly develop, build, and deploy applications on AWS with a unified user interface.
+- **Unified** UI to easily manage software development activities **in one place**
+- "Quick way" to get started to correctly set-up [[AWS CodeCommit]], [[AWS CodePipeline]], [[AWS CodeBuild]], [[AWS CodeDeploy]], [[AWS Elastic Beanstalk]], [[EC2 - Elastic Compute Cloud]]
+- Can edit the code "in-the-cloud" using [[AWS Cloud9]]

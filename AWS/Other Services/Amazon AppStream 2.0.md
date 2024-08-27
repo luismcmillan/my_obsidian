@@ -1,0 +1,4 @@
+- [[Other Services]]
+- Desktop Application Streaming Service
+- Deliver to any computer, without acquiring, provisioning infrastructure
+- **The application is delivered from within a web browser**

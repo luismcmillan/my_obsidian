@@ -1,0 +1,7 @@
+- [[The Object Class]]
+- When overriding equals, it is also generally necessary to override the hashCode() method
+	- The hashCode() method is another method defined in java.lang.Object.
+	- The hashCode() method returns an integer identifying an object
+	- it is used when storing objects in hash data structures
+	- therefore **if two objects are considered equal based on the equals method, they should also return the same hashcode with the hashCode() method.
+	- interestingly, the converse is not true, two different objects do NOT need to return differen hash codes (though they often do)

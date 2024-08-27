@@ -1,0 +1,14 @@
+- [[AWS Security Hub]]
+- Global service
+- Shows you how AWS outages directly impact you & your AWS resources
+- Alert remediation, proactive, scheduled activities
+- AWS Health Dashboard - Service History
+	- Shows all regions, all services health
+	- Shows historical information for each day
+	- Has an RSS feed you can subscribe to 
+![[Pasted image 20240524101002.png]]
+- Aws Health Dashboard - Your Account
+	- provides alerts and remediation guidance when AWS is experiencing **events that may impact you**.
+	- gives you a **personalized view into the performance and availability of the AWS services underlying your AWS resources**
+	- displays **relevant and timely information** to help you manage events in progress and provides proactive notification to help you plan for **scheduled activities**
+	- Can aggregate data from an entire AWS Organization

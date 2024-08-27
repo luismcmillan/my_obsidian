@@ -1,0 +1,1 @@
+- Jede Nachricht innerhalb einer [[Partition]] hat eine eindeutige Identifikationsnummer, die als [[Offset]] bezeichnet wird. Offsets sind fortlaufende Nummern, die die Reihenfolge der Nachrichten in einer [[Partition]] darstellen. [[Consumers]] verwenden Offsets, um ihren Fortschritt bei der Nachrichtenverarbeitung zu verfolgen.

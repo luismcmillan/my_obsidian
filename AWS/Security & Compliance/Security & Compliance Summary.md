@@ -1,0 +1,22 @@
+- [[AWS Shield]]: Automatic DDoS Protection + 24/7 support for advanced
+- [[AWS WAF - Web Application Firewall]]: Firewall to filter incoming requests based on rules
+- [[AWS KMS (Key Management Service)]]: Encryption keys managed by AWS
+- [[CloudHSM]]: hardware encryption, we manage encryption keys
+- [[AWS Certificate Manager (ACM)]]: provision, manage, and deploy SSL/TLS Certificates
+- [[AWS Artifact]]: Get access to compliance repots such as PCI, ISO, etc.
+- [[AWS  GuardDuty]]: Find malicious behavior with VPC,DNS & CloudTrail Logs
+- [[Amazon Inspector]]: find software vulnerabilities in EC2 ECR Images, and Lambda functions
+- [[AWS Network Firewall]]: Protect VPC against network attacks
+- [[AWS Config]]: track config changes and compliance against rules
+- [[Amazon Macie]]: Find sensitive data (PII) in Amazon S3 buckets
+- [[AWS CloudTrail]]: Track API calls made by users within account
+- [[AWS Security Hub]]: gather security findings from multiple AWS accounts
+- [[Amazon Detective]]: find the root cause of security issues or suspicious activities
+- [[AWS Abuse]]: Report AWS resources used for abusive or illegal purposes
+- [[Root user]] privileges:
+	- Change account settings
+	- Close your AWS account
+	- Change or cancel your AWS Support Plan
+	- Register as a seller in the Reserved Instance Marketplace
+- [[IAM Access Analyzer]]: identify which resources are shared externally
+- [[AWS Firewall Manager]]: manage security rules across an Organization

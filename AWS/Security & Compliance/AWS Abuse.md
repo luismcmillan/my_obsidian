@@ -1,0 +1,9 @@
+- [[Security & Compliance Summary]]
+- **Report suspected AWS resources used for abusive or illegal purposes**
+- Abusive & prohibited behaviors are:
+	- Spam
+	- Port scanning
+	- Dos or DDoS
+	- Intrusion attempts
+	- Hosting objectionable or copyrighted content
+	- Distributing malware

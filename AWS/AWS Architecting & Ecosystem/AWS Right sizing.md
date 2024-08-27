@@ -1,0 +1,4 @@
+- Cloud is **elastic** so don't always choose most powerful [[EC2 - Elastic Compute Cloud]]
+- Right sizing is process of matching size of workloads at **lowest possible cost**
+- **Scaling up is easy so always start small**
+- [[CloudWatch]], [[Cost Explorer]], [[Trusted Advisor]] can help

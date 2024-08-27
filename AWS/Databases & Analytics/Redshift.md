@@ -1,0 +1,10 @@
+- [[Databases & Analytics Summary]]
+- Amazon Redshift is a fully managed, petabyte-scale data warehouse service in the cloud.
+- Redshift based on PostgreSQL
+- OLAP - online analytical processing (analytics and data warehousing)
+- Load data once every hour, not every second
+- 10x better performance than other data warehouses
+- Columnar storage of data (instead of row based)
+- Massively Parallel Query Execution (MPP), highly available
+- pay as you go based on the insstances provisioned
+- Has a SQL interface for performing the queries

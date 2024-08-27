@@ -1,0 +1,8 @@
+- [[Amazon S3]]
+- Objects (files) have a Key
+- The **key** is the FULL path:
+	- s3://my-bucket/**my_file.txt**
+- The key is composed of prefix + object name
+	- s3://my-bucket/**my_folder/another_filder**/my_file.txt
+- There's no concept of "directories" within buckets
+- Just keys with very long names that contain slashes("/")

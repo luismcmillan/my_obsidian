@@ -1,0 +1,21 @@
+- [[Deployment - Summary]]
+- Elastic Beanstalk is a developer centric view of deploying an application on AWS
+- **free to use**
+- You only manage data and applications. AWS Elastic Beanstalk makes it even easier for developers to quickly deploy and manage applications in the AWS Cloud
+- Uses all components:
+	- [[EC2 - Elastic Compute Cloud]], [[Auto Scaling Group]], ELB, [[Amazon RDS]], etc...
+- But it's all in one view that's easy to make sense of
+- We still have full control over the configuration
+- **Beanstalk = Platform as a Service**
+- Managed service
+	- instance configuration / OS is handled by Beanstalk
+	- Deployment strategy is configurable but performed by Elastic beanstalk
+	- Capacity provisioning
+	- Load balancing & auto-scaling
+	- Application health-monitoring & responsiveness
+- **Just application code is the responsibility of the developer**
+
+- Three architecture models:
+	- Single Instance deployment: good for dev
+	- LB + ASG: great for production
+	- ASG only: great for non-web apps in production

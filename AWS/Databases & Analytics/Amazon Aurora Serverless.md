@@ -1,0 +1,7 @@
+- [[Databases & Analytics Summary]]
+- Automated database instantiation and auto-scaling based on actual usage
+- PostgreSQL as Aurora Serverless DB
+- **No capacity planning needed**
+- Least management overhead
+- Per per second, can be more cost effective
+- Use cases: good for infrequent, intermittent or unpredictable workloads...

@@ -1,0 +1,14 @@
+[[Machine Learning]]
+- [[Amazon Recognition]]: face detection, labeling, celebrity recognition
+- [[Amazon Transcribe]]: audio to text
+- [[Amazon Polly]]: text to audio
+- [[Amazon Translate]]: translations
+- [[Amazon Lex & Connect]]:
+	- Lex: build conversational bots - chatbots
+	- Connect: cloud contact center
+- [[Amazon Comprehend]]: natural language processing (**understanding**)
+- [[Amazon SageMaker]]: machine learning for every developer and data scientist
+- [[Amazon ForeCast]]: build highly accurate forecasts
+- [[Amazon Kendra]]: ML-powered search engine
+- [[Amazon Personalize]]: real-time personalized recommendations
+- [[Amazon Textract]]: detect text and data in documents

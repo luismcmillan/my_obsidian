@@ -1,0 +1,9 @@
+- HTTP Methods:
+	- GET [[REST GET Route]]
+	- POST [[REST POST Route]]
+	- PUT [[REST PUT Route]]
+	- PATCH [[REST PATCH Route]]
+	- DELETE [[REST DELETE Route]]
+- JSON Output
+- Stateless
+- Resource-Based

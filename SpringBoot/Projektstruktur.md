@@ -1,0 +1,19 @@
+[[Projektstruktur]]
+- src/
+	- main/
+		- java/
+			- com/
+				- example/
+					- springbootexample/
+						- [[SpringbootExampleApplication.java]]
+						- controller/
+							- [[PersonController.java]]
+						- model/
+							- [[Person.java]]
+						- repository/
+							- [[PersonRepository.java]]
+		- resources
+			- [[application.properties]]
+			- [[schema.sql]]
+	- test
+- [[pom.xml example]]

@@ -1,0 +1,4 @@
+- Jedes [[Topic]] kann in mehrere [[Partition]] aufgeteilt werden. [[Partition]] sind die tatsächlichen physischen Logdateien, in denen Nachrichten gespeichert werden. Sie ermöglichen eine parallele Verarbeitung und Skalierung, da jede [[Partition]] unabhängig verwaltet wird. [[Partition]] bieten auch eine Möglichkeit zur Lastverteilung und erhöhen die Performance durch parallele Verarbeitung.
+- Zu jedem Zeitpunkt gibt es immer nur EIN broker der der Leader für ein ePartition ist
+	- [[Producer]] können nur data an den Leader schicken
+- Jede Partition hat nur EINEN Leader und mehrere ISR (in-sync replica)

@@ -1,0 +1,11 @@
+- [[Databases & Analytics Summary]]
+- Amazon QLDB is a fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log owned by a central trusted authority. Amazon QLDB tracks each and every application data change and maintains a complete and verifiable history of changes over time.
+- Serverless machine learning-powered business intelligence service to create interactive dashboards
+- Fast automatically scalable, embeddable, with per-session pricing
+- Use cases:
+	- Business analytics
+	- Building visualizations
+	- Perform ad-hoc analysis
+	- Get Business insights
+
+- **Integrated with RDS, Aurora, Athena, Redshift, S3**

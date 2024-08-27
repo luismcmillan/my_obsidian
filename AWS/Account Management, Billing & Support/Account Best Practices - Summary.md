@@ -1,0 +1,9 @@
+- Operate multiple accounts using [[AWS Organizations]]
+- Use [[Service Control Policies (SCP)]] to restrict account Power
+- Easily setup multiple accounts with [[AWS Control Tower]]
+- Use [[Cost Allocation Tags]] for easy management & billing
+- IAM Guidelines: MFA, least-privilege, password policy, password rotation
+- [[AWS Config]] to record all resources configurations & compliance over time
+- [[Trusted Advisor]] to get insights, Support Plan adapted to you needs
+- [[Global Application Architecture]]
+- [[AWS Well-Architected Tool]]

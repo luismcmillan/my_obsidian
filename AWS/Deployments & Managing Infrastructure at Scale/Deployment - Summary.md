@@ -1,0 +1,16 @@
+- [[CloudFormation]]: (AWS only):
+	- Infrastructure as Code, works with almost all of AWS resources
+	- Repeat across Regions & Accounts
+- [[AWS Elastic Beanstalk]]: (AWS only)
+	- Platform as a Service (PaaS) , limited to a certain programming languages or Docker
+	- Deploy code consistently with a known architecture: ex, ALB + EC2 + RDS
+- [[AWS CodeDeploy]]: (hybrid): deplay & upgrade any application onto servers
+- [[AWS Systems Manager (SSM)]] (hybrid): patch, configure and run commands at scale
+- [[AWS CodeCommit]]: Store code in private git repository
+- [[AWS CodeBuild]]_ Build & test code in AWS
+- [[AWS CodeDeploy]]: Deploy code onto servers
+- [[AWS CodePipeline]]: Orchestration of pipeline
+- [[AWS CodeArtifact]]: Store software packages / dependencies on AWS
+- [[AWS CodeStar]]: Unified view for allowing developers to do CICD and code
+- [[AWS Cloud9]]: Cloud IDE
+- [[AWS Cloud Development Kit (CDK)]]: Define your cloud infrastructure using a programming language

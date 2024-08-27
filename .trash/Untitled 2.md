@@ -1,0 +1,2 @@
+- Java includes a [[Functional Interface]] called "Predicate" to handle a very common scenario: a "test" method is invoked with a parameter, **resulting in a boolean outcome**
+- The type is Predicate<T> where "T" can be any type needed i

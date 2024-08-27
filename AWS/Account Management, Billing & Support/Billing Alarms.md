@@ -1,0 +1,5 @@
+- [[Billing and Costing Tools - Summary]]
+- **Billing data metric is stored in CloudWatch us-east-1**
+- Billing data are for overall worldwide AWS costs
+- It's for actual cost, not for projected costs
+- Intended a simple alarm (not as powerful as [[AWS Budgets]])

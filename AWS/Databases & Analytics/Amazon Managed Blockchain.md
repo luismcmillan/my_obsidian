@@ -1,0 +1,3 @@
+- [[Databases & Analytics Summary]]
+- Blockchain makes it possible to build applications where multiple parties can execute transactions **without the need for a trusted central authority**
+- Amazon Managed Blockchain is a fully managed service that makes it easy to create and manage scalable blockchain networks using the popular open source frameworks Hyperledger Fabric and Ethereum. It allows multiple parties to execute transactions without the need of a trusted, central authority.

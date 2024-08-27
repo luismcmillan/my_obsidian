@@ -1,0 +1,6 @@
+- Ein Kafka-Cluster besteht aus mehreren Brokern, die die Kafka-Instanzen repräsentieren. Brokers sind dafür verantwortlich, Nachrichten zu empfangen, zu speichern und weiterzuleiten. Jeder Broker kann mehrere [[Topic]] und [[Partition]] verwalten.
+- Every Kafka broker is also called a (Bootstrap server)
+	- That means that **you only need to connect to one broker**, and the Kafka clients will know how to be connected to the entire cluster
+- jeder broker hat eigene Identifikations ID
+- nachdem man sich verbindet zu einem Broker ist man mit dem gesamten [[Kafka-Cluster]] verbunden
+- Jeder broker kennt alle anderen Broker, Topics und partitions

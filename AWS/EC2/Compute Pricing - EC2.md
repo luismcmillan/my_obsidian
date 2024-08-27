@@ -1,0 +1,15 @@
+- [[EC2 - Elastic Compute Cloud]]
+- **On-demand instances**:
+	- Minimum of 60s
+	- Pay per second
+- **Reserved instances**
+	- Up to 75% discount compared to On-demand
+	- 1- or 3-years commitment
+	- All upfront, partial upfront, no upfront
+- **Spot instances**:
+	- Up to 90% discount compared to On-demand
+	- Bid for unused capacity
+- **Dedicated Host**:
+	- On-demand
+	- Reservation for 1 year or 3 years commitment
+- **Savings plans** as an alternative to save sustained usage

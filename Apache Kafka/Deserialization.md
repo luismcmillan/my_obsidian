@@ -1,0 +1,2 @@
+- Beim Empfang von Nachrichten durch einen [[Consumers]] müssen diese Nachrichten werden. Das bedeutet, dass die Nachrichten von ihrem bytebasierten Format in ein verständliches Format umgewandelt werden. Dies ermöglicht den [[Consumers]], die Daten korrekt zu verarbeiten.
+- der Typ **darf nicht geändert** werden während des topic lifecycle

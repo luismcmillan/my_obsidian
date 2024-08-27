@@ -1,0 +1,15 @@
+- [[Security & Compliance Summary]]
+- Root user = Account Owner (created when the account is created)
+- Has complete access to all AWS services and resources
+- **Lock away your AWS account root user access keys!**
+- Do not use the root account for everyday tasks, even administrative tasks
+- Actions that can only be performed by the root user
+	- **Change account settings**
+	- View certain tax invoices
+	- **Close your AWS account**
+	- Restore IAM user permissions
+	- **Change or cancel your AWS Support plan**
+	- **Register as a seller in the Reserved instance Marketplace**
+	- Configure an Amazon bucket to enable MFA
+	- Edit or delete Amazon S3 bucket policy that includes a invalid VPC ID or VPC endpoint ID
+	- Sign up for GovCloud

@@ -1,0 +1,8 @@
+- [[IAM]]
+	- Identity and Access Management inside your AWS account
+	- For users that you trust and belong to your company
+- [[AWS Organizations]]: Manage multiple accounts
+- [[AWS STS (Security Token Service)]]: temporary, limited-privileges credentials to access AWS resources
+- [[Amazon Cognito]]: create a database of user for you mobile & web applications
+- [[AWS Directory Services]]: Integrate Microsoft Active Directory in AWS
+- [[AWS IAM Identity Center]]: one login for multiple AWS accounts & applications

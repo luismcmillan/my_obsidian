@@ -1,0 +1,1 @@
+[[Consumers]] sind die Komponenten, die Nachrichten aus Kafka [[Topic]] lesen. Sie abonnieren ein oder mehrere [[Topic]] und konsumieren die Nachrichten, die in den [[Partition]] dieser [[Topic]] gespeichert sind.

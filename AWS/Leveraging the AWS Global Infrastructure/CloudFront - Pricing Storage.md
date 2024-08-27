@@ -1,0 +1,4 @@
+- Pricing is different across different geographic regions
+- Aggregated for each edge location, then applied to your bill
+- **Data Transfer Out (volume discount)**
+- Number of HTTP/HTTPS requests

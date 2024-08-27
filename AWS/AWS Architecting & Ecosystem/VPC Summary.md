@@ -1,0 +1,17 @@
+- [[VPC & Subnets]] 
+	- VPC: Virtual Private Cloud
+	- Subnets: Tied to an AZ, network partition of the VPC
+- [[Internet Gateway]]: at the VPC level, to provide Internet Access
+- [[NAT Gateway]] / instances: give internet access to private subnets
+- [[VPC Peering]]: Connect two VPC with non overlapping IP ranges, nontransitive
+- [[IP Addresses in AWS]]
+	- Elastic IP - fixed public IPv4, ongoing cost if not in-use
+- [[VPC Endpoints]]: Provide private access to AWS Services within VPC
+- [[AWS PrivateLink]]: Privately connect to a service in a 3rd party VPC
+- [[VPC Flow Logs]]: network traffic logs
+- [[AWS Client VPN]]: OpenVPN connection from your computer into your VPC
+- [[Site to Site VPN & Direct Connect]]: 
+	- Site to Site VPN - goes over public IP
+	- Direct Connect - goes over private IP
+- [[Transit Gateway]]: Connect thousands of VPC and on-premises networks together
+- [[AWS Outposts]]

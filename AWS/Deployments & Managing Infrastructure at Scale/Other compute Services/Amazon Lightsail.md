@@ -1,0 +1,7 @@
+- [[Penetration Testing on AWS Cloud]]
+- Virtual servers, storage, databases, and networking
+- **Great for people with little cloud experience**
+- Low & predictable pricing
+- Use cases:
+	- Simple web applications (has templates for LAMP, Nginx, MEAN, Node.js)
+- Has high availability but no autoscaling, limited AWS integrations

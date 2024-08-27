@@ -1,0 +1,17 @@
+- AWS customers are welcom to carry out security assessments or penetration tests against their AWS infrastructure without prior approval for **8 services**:
+	- [[EC2 - Elastic Compute Cloud]], NET Gateways, and Elastic Load Balancers
+	- [[Amazon RDS]]
+	- [[CloudFront]]
+	- [[Amazon Aurora]]
+	- [[Amazon API Gateway]]
+	- [[Lambda]]
+	- [[Amazon Lightsail]]
+	- [[AWS Elastic Beanstalk]]
+
+- Prohibited Activities
+	- DNS zone walking via Amazon [[Amazon Route 53]] hosted Zones
+	- Dos, DDos, Simulated Dos,
+	- Simulated DDos
+	- Port flodding
+	- Protocol flooding
+	- Request flooding

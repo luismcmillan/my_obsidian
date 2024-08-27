@@ -1,0 +1,2 @@
+- **Consumer Offsets**: Jeder [[Consumers]] in einer [[Consumer Groups]] verfolgt seine eigene Position innerhalb der [[Partition]] durch [[Offset]]-Tracking. Die [[Offset]] können entweder vom [[Consumers]] selbst oder von Kafka in speziellen System-Topics gespeichert werden. Dies ermöglicht es, nach einem Ausfall oder Neustart den Konsumfortschritt fortzusetzen.
+- **__consumer_offsets**

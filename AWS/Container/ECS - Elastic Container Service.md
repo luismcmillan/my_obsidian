@@ -1,0 +1,5 @@
+- [[Docker]]
+- Launch Docker container on AWS
+- **you must provision & maintain the infrastructure (the EC2 instances)**
+- AWS takes care of starting/stopping containers
+- Has integrations with the Application Load Balancer

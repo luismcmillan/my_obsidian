@@ -1,0 +1,3 @@
+- [[Databases & Analytics Summary]]
+- Fully managed, fast, scalable, serverless **time series database**
+- Automatically scales up/down to adjust capacity

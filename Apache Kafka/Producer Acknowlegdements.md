@@ -1,0 +1,1 @@
+- Beim Senden von Nachrichten kann der [[Producer]] angeben, wie viele [[Broker]] die Nachricht bestätigen müssen, bevor der [[Producer]] als erfolgreich abgeschlossen betrachtet wird. Dies wird durch die Konfiguration der Bestätigungsstufen (acks) gesteuert und beeinflusst die Zuverlässigkeit und Dauerhaftigkeit der Nachrichten.

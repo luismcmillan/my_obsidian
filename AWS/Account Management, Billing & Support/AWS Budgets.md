@@ -1,0 +1,10 @@
+- [[Billing and Costing Tools - Summary]]
+- Create budget and **Send alarms when costs exceeds the budget**
+- 4 types of budgets: Usage, Cost, Reservation, Savings Plans
+- For Reserved Instances (RI)
+	- Track ulilization
+	- Supports [[EC2 - Elastic Compute Cloud]], [[Amazon ElastiCache]], [[Amazon RDS]], [[Redshift]]
+- up to 5 SNS notifications per budget
+- Can filter by: Service, Linked Account, Tag, Purchase Option, Instance Type, Region, AZ, API Operation
+- Same options as AWS Cost Explorer 
+- 2 budgets are free, then $0.02/day/budget

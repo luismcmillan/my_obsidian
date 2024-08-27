@@ -1,0 +1,7 @@
+- [[Deployment - Summary]]
+- You only manage data and applications. AWS Elastic Beanstalk makes it even easier for developers to quickly deploy and manage applications in the AWS Cloud
+- Software packages depend on each other to be build (dependencies), and new oney are created
+- storing and retrieving these dependencies is called **artifact management**
+- **CodeArtifact** is a secure, scalable and cost-effective **artifact management** for software development
+- Works with common dependency management tools such as Maven, Gradle, npm, yarn, twine pip
+- **Developers and CodeBuild can then retrieve dependencies straight from CodeArtifact**

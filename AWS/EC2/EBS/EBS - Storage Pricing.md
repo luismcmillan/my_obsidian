@@ -1,0 +1,11 @@
+- Volume type (based on performance)
+- Storage volume in GB per month **provisioned**
+- IOPS:
+	- General Purpose SSD: Included
+	- Provisioned IOPS SSD: Provisioned amount in IOPS
+	- Magnetic: Number of requests
+- [[EBS Snapshots]]:
+	- Added data cost per GB per month
+- Data transfer:
+	- **Outbound data transfer are tiered for volume discounts**
+	- Inbound is free

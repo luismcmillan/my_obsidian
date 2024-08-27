@@ -1,0 +1,28 @@
+- [[EC2 - Elastic Compute Cloud]]
+<font color="blue"> m</font><font color="orange"> 5</font>. <font color="green"> 2xlarge</font>
+- <font color="blue"> m</font> : instance class
+- <font color="orange"> 5</font>: generation
+- <font color="green"> 2xlarge</font>: size within the instance class
+
+- General Purpose
+	- great for diverity of workloads such as web servers or code repositories
+	- balance between
+		- Compute
+		- Memory
+		- Networking
+- Compute Optimized
+	- Great for compute intensive tasks that require high performance processors
+		- Batch procssing workloads
+		- Media transcoding
+		- High performance web servers
+		- High performance computing (HPC)
+		- Scientific modeling & machine Learning
+		- Dedicated gaming servers
+- Storage Optimized
+	- Great for storage intensive tasks that require high, sequential read write access to large data sets on local storage
+	- Use cases:
+		- High frequency online transaction processing (OLTP) systems
+		- Relational & NoSQL databases
+		- Cache for in-memory databases
+		- Data warehousing applications
+		- Distributed file systems

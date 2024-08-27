@@ -1,0 +1,3 @@
+- They just deploy code
+- They just deploy... functions!
+- **Serverless does not mean there are no servers** it means you don't manage / provision / see them

@@ -1,0 +1,1 @@
+- Um Ausfallsicherheit und Datenverfügbarkeit sicherzustellen, repliziert Kafka die [[Partition]] eines [[Topic]] auf mehrere [[Broker]]. Dies bedeutet, dass jede [[Partition]] in mehreren Kopien vorhanden ist, die als Replikate bezeichnet werden. Wenn ein [[Broker]] ausfällt, können andere [[Broker]] die Nachrichten weiterhin bereitstellen.

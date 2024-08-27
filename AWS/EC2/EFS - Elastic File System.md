@@ -1,0 +1,5 @@
+- [[EC2 - Elastic Compute Cloud]]
+- Managed NFS (network file system) that can be mounted on 100s of EC2
+- EFS works with Linux EC2 instances in **multi-AZ**
+- Highly available, scalable, expensive, pay per use, no capacity planning
+- 

@@ -1,0 +1,3 @@
+- [[ML]]
+- Automatically **convert speech to text**
+- Used a deep leraning process called automatic speech recognition (ASR) to convert speech to text quickly and accurately

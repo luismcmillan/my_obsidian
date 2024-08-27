@@ -1,0 +1,11 @@
+- [[VPC Summary]]
+- Capture information about IP traffic going into you interfaces:
+	- VPC Flow Logs
+	- Subnet Flow Logs
+	- Elastic Network Interface Flow Logs
+- Helps to monitor & troubleshoot connectivity issues
+	- Subnet to internet
+	- Subnet to subnets
+	- Internet to subnets
+- Captures network information from AWS managed interfaces too: ELB , ElastiCache, RDS, Aurora
+- VPC Flow logs data can go to [[Amazon S3]], [[CloudWatch]], [[Amazon Kinesis]]

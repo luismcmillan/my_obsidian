@@ -1,0 +1,8 @@
+- Store and sync data across mobile an web apps in real-time
+- **Makes use of GraphQL (mobile technology from Facebook)**
+- Client Code an be generated automatically
+- Integrations with [[DynamoDB]] / Lambda
+- Real-time subscriptions
+- Offline data synchronization 
+- Fine Grained Security
+- [[AWS Amplify]] can leverage AWS AppSync in the background!

@@ -1,0 +1,12 @@
+- Intended to be used of you have **production workloads**
+- [[Trusted Advisor]] - Full set of checks + API access
+- **24/7 phone, email, and chat access to Cloud Support Engineers**
+- Unlimited cases / unlimited contacts
+- Access to Infrastructure Event Management for additional fee
+- Case severity / response times
+	- General guidance: 24 business hours
+	- System impaired: < 12 business hours
+	- **Production system impaired: < 4 hours
+	- **Production system down: < 1 hour** 
+- [[Support Plans]]
+- 

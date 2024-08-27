@@ -1,0 +1,8 @@
+- AWS Shield Standard:
+	- Free service that is activated for every AWS customer
+	- Provides protection from attacks such as SYN/UDP Floods, Reflection attacks and other layer3/layer4 attacks
+- AWS Shield Advanced
+	- Optional DDos mitigration service (3000 per month per organization)
+	- Protect against more sophisticated attack on [[EC2 - Elastic Compute Cloud]], [[CloudFront]], [[AWS Global Accelerator]], [[Amazon Route 53]]
+	- 24/7 access to AWS DDoS response team
+	- Protect against higher fees during usage spked due to DDoS

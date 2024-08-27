@@ -1,0 +1,2 @@
+- [[Consumer Groups]] bestehen aus mehreren [[Consumers]], die gemeinsam Nachrichten aus einem [[Topic]] konsumieren. Jede [[Partition]] eines [[Topic]] wird nur von einem [[Consumers]] innerhalb der Gruppe bearbeitet, was eine horizontale Skalierung ermöglicht und die Lastverteilung verbessert.
+- To create distinct consumer groups, use the consumer property **group.id**

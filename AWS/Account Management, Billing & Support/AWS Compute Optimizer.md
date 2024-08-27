@@ -1,0 +1,11 @@
+- [[Billing and Costing Tools - Summary]]
+- **Reduce costs** and **improve performance by** recommending optimal AWS resources for you workloads
+- Helps you choose optimal configurations and right-size your workloads (over/under provisioned)
+- Used machine Learning to analyze your **resources configurations** and their **utilization Cloud Watch metrics**
+- Supported resources
+	- [[EC2 - Elastic Compute Cloud]]
+	- EC2 Auto Scaling Groups
+	- [[EBS (Elastic Block Store) Volume]]
+	- [[Lambda]]
+- Lower your costs by up to 25%
+- Recommendations can be exported so S3

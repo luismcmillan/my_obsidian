@@ -1,0 +1,4 @@
+- VPC - Virtual Private Cloud
+- Subnets: Tied to an AZ, network partition of the VPC
+- [[Internet Gateway]]: at the VPC level, provide Internet Access
+- [[NAT Gateway]]

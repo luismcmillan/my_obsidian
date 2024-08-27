@@ -1,0 +1,6 @@
+- Number and size of objects: Price can be tiered (based on volume)
+- Number and type of requests
+- Data transfer **OUT* of the S3 region
+- there is no charge for inbound data transfer or data transfer between other AWS services **within the same region**
+- [[S3 Transfer Acceleration]]
+- Lifecycle transitions
